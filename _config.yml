@@ -1,0 +1,29 @@
+remote_theme: pages-themes/architect@v0.2.0
+title: The Provable Porting Engine
+description: Presentations, infographics, and mind maps explaining the deterministic, agentic "Provable Porting Engine" for migrating legacy SAS and Excel systems at scale.
+lang: en_NZ
+
+author:
+  name: Agentics NZ
+  url: https://github.com/agenticsnz
+
+social:
+  name: Agentics NZ
+  links:
+    - https://github.com/agenticsnz
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  typographic_symbols:
+    mdash: "---"
+    ndash: "--"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - "*.pdf"
+  - README.md
