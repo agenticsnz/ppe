@@ -1,13 +1,19 @@
-# Deterministic Porting &amp; Agentic Engineering: Artifact Repository
+---
+layout: default
+title: The Provable Porting Engine
+description: Presentations, infographics, and mind maps explaining the deterministic, agentic "Provable Porting Engine" for migrating legacy SAS and Excel systems at scale.
+---
 
-## Overview
-This repository contains a collection of presentations, infographics, and mind maps explaining the **"Provable Porting Engine"** developed to migrate legacy SAS databases and Excel spreadsheets at scale. The materials contrast *Agentic Engineering* with *vibe coding*, illustrating how deterministic orchestration, strict LLM bounding, and mathematical testing can turn a multi-year migration project into a provably accurate, overnight automated run.
+This repository collects the presentations, infographics, and mind maps explaining
+the **"Provable Porting Engine"** &mdash; a deterministic, agentic approach to migrating
+legacy SAS databases and Excel spreadsheets at scale. The materials contrast *Agentic
+Engineering* with *vibe coding*, showing how deterministic orchestration, strict LLM
+bounding, and mathematical testing can turn a multi-year migration into a provably
+accurate, overnight automated run.
 
-> 🌐 **Live site:** [agenticsnz.github.io/ppe](https://agenticsnz.github.io/ppe) (GitHub Pages)
+## 📊 Presentations
 
-## 📊 Presentations (Slide Decks)
-
-Click a thumbnail to open the full deck on Google Drive.
+Click a thumbnail to open the full slide deck (Google Drive).
 
 | Slides | Presentation |
 |--------|--------------|
@@ -27,15 +33,3 @@ Click a thumbnail to open the full-resolution image.
 | <a href="Spreadsheet_to_Python_Logic_Transformation.png"><img src="thumbnails/Spreadsheet_to_Python_Logic_Transformation_thumb.png" width="320" alt="Spreadsheet to Python Logic Transformation"></a> | **[From Messy Formulas to Clean Python](Spreadsheet_to_Python_Logic_Transformation.png)**<br>The dependency-graph transformation: messy Excel R1C1 formulas are deterministically parsed into clean Mermaid node charts that serve as the prompts for the AI. |
 | <a href="Traditional_vs._Agentic_Porting.png"><img src="thumbnails/Traditional_vs._Agentic_Porting_thumb.png" width="320" alt="Traditional vs. Agentic Porting"></a> | **[The Great Migration: Traditional vs. Agentic Porting](Traditional_vs._Agentic_Porting.png)**<br>A visual comparison of manual human porting versus AI agent porting across cost, speed, and accuracy. |
 | <a href="AI_Flipped_Software_Migration_Timeline.png"><img src="thumbnails/AI_Flipped_Software_Migration_Timeline_thumb.png" width="320" alt="The New Critical Path"></a> | **[The New Critical Path: How AI Flipped the Migration Timeline](AI_Flipped_Software_Migration_Timeline.png)**<br>How the core bottleneck has shifted away from writing code and toward downstream systems, environment setup, and organizational approvals. |
-
-## 🗂️ Repository Layout
-
-```
-.
-├── index.md            # GitHub Pages homepage (Jekyll, architect theme)
-├── _config.yml         # GitHub Pages configuration
-├── *.png               # Full-resolution infographics & mind maps
-└── thumbnails/         # Generated thumbnails (images + first page of each deck)
-```
-
-The slide decks themselves are hosted on Google Drive (linked above) rather than committed to the repository.
