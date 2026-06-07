@@ -3,7 +3,14 @@
 ## Overview
 This repository contains a collection of presentations, infographics, and mind maps explaining the **"Provable Porting Engine"** developed by Blair Nilsson to migrate legacy SAS databases and Excel spreadsheets at scale. The materials contrast *Agentic Engineering* with *vibe coding*, illustrating how deterministic orchestration, strict LLM bounding, and mathematical testing can turn a multi-year migration project into a provably accurate, overnight automated run.
 
-> 🌐 **Live site:** [agenticsnz.github.io/ppe](https://agenticsnz.github.io/ppe) (GitHub Pages)
+## 🎥 Talks &amp; Videos
+
+Click a thumbnail to watch on YouTube.
+
+| Video | Talk |
+|-------|------|
+| <a href="https://youtu.be/nmGCJYMgRTc"><img src="thumbnails/Video_Unscramble_an_Egg_thumb.jpg" width="320" alt="How to unscramble an egg"></a> | **[AI Agents Transform Legacy Code: How to unscramble an egg](https://youtu.be/nmGCJYMgRTc)**<br>Agentics NZ &mdash; turning software back into provably correct specs. |
+| <a href="https://youtu.be/SZKJ5-kdaig"><img src="thumbnails/Video_Provable_Porting_Engine_thumb.jpg" width="320" alt="Blair Nilsson's provable porting engine"></a> | **[Blair Nilsson's Provable Porting Engine](https://youtu.be/SZKJ5-kdaig)**<br>Agentics NZ &mdash; migrating legacy SAS &amp; spreadsheets at scale. |
 
 ## 📊 Presentations (Slide Decks)
 
@@ -16,16 +23,6 @@ Click a thumbnail to open the full deck on Google Drive.
 | <a href="https://drive.google.com/file/d/1_aGNN9WJs6xmi7Vvgnnl3K1TszyUfuHH/view?usp=sharing"><img src="thumbnails/Unscrambling_the_Monolith_thumb.png" width="320" alt="Unscrambling the Monolith"></a> | **[Unscrambling the Monolith](https://drive.google.com/file/d/1_aGNN9WJs6xmi7Vvgnnl3K1TszyUfuHH/view?usp=sharing)**<br>The comprehensive explainer &mdash; migrating legacy SAS &amp; Excel to modern stacks via agentic engineering. |
 | <a href="https://drive.google.com/file/d/1cIfnwdkK3EALp-QxU-o-zw8Kme_Yb2-2/view?usp=sharing"><img src="thumbnails/The_Provable_Porting_Engine_thumb.png" width="320" alt="The Provable Porting Engine"></a> | **[The Provable Porting Engine](https://drive.google.com/file/d/1cIfnwdkK3EALp-QxU-o-zw8Kme_Yb2-2/view?usp=sharing)**<br>The technical deep dive &mdash; migrating legacy SAS &amp; spreadsheets at scale via agentic engineering. |
 
-## 🎥 Talks &amp; Videos
-
-Click a thumbnail to watch on YouTube.
-
-| Video | Talk |
-|-------|------|
-| <a href="https://youtu.be/nmGCJYMgRTc"><img src="thumbnails/Video_Unscramble_an_Egg_thumb.jpg" width="320" alt="How to unscramble an egg"></a> | **[AI Agents Transform Legacy Code: How to unscramble an egg](https://youtu.be/nmGCJYMgRTc)**<br>Agentics NZ &mdash; turning software back into provably correct specs. |
-| <a href="https://youtu.be/SZKJ5-kdaig"><img src="thumbnails/Video_Provable_Porting_Engine_thumb.jpg" width="320" alt="Blair Nilsson's provable porting engine"></a> | **[Blair Nilsson's Provable Porting Engine](https://youtu.be/SZKJ5-kdaig)**<br>Agentics NZ &mdash; migrating legacy SAS &amp; spreadsheets at scale. |
-
-## 🖼️ Infographics &amp; Mind Maps
 ## 🖼️ Infographics
 
 Click a thumbnail to open the full-resolution image.
