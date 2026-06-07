@@ -1,7 +1,7 @@
 # Deterministic Porting &amp; Agentic Engineering: Artifact Repository
 
 ## Overview
-This repository contains a collection of presentations, infographics, and mind maps explaining the **"Provable Porting Engine"** developed to migrate legacy SAS databases and Excel spreadsheets at scale. The materials contrast *Agentic Engineering* with *vibe coding*, illustrating how deterministic orchestration, strict LLM bounding, and mathematical testing can turn a multi-year migration project into a provably accurate, overnight automated run.
+This repository contains a collection of presentations, infographics, and mind maps explaining the **"Provable Porting Engine"** developed by Blair Nilsson to migrate legacy SAS databases and Excel spreadsheets at scale. The materials contrast *Agentic Engineering* with *vibe coding*, illustrating how deterministic orchestration, strict LLM bounding, and mathematical testing can turn a multi-year migration project into a provably accurate, overnight automated run.
 
 > 🌐 **Live site:** [agenticsnz.github.io/ppe](https://agenticsnz.github.io/ppe) (GitHub Pages)
 
