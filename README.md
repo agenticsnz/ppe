@@ -16,7 +16,7 @@ Click a thumbnail to open the full deck on Google Drive.
 | <a href="https://drive.google.com/file/d/1_aGNN9WJs6xmi7Vvgnnl3K1TszyUfuHH/view?usp=sharing"><img src="thumbnails/Unscrambling_the_Monolith_thumb.png" width="320" alt="Unscrambling the Monolith"></a> | **[Unscrambling the Monolith](https://drive.google.com/file/d/1_aGNN9WJs6xmi7Vvgnnl3K1TszyUfuHH/view?usp=sharing)**<br>The comprehensive explainer &mdash; migrating legacy SAS &amp; Excel to modern stacks via agentic engineering. |
 | <a href="https://drive.google.com/file/d/1cIfnwdkK3EALp-QxU-o-zw8Kme_Yb2-2/view?usp=sharing"><img src="thumbnails/The_Provable_Porting_Engine_thumb.png" width="320" alt="The Provable Porting Engine"></a> | **[The Provable Porting Engine](https://drive.google.com/file/d/1cIfnwdkK3EALp-QxU-o-zw8Kme_Yb2-2/view?usp=sharing)**<br>The technical deep dive &mdash; migrating legacy SAS &amp; spreadsheets at scale via agentic engineering. |
 
-## 🖼️ Infographics &amp; Mind Maps
+## 🖼️ Infographics
 
 Click a thumbnail to open the full-resolution image.
 
