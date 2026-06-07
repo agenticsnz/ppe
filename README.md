@@ -14,7 +14,7 @@ Click a thumbnail to watch on YouTube.
 
 ## 📊 Presentations (Slide Decks)
 
-Click a thumbnail to open the full deck on Google Drive.
+Click a thumbnail to open the full deck.
 
 | Slides | Presentation |
 |--------|--------------|
