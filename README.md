@@ -26,6 +26,7 @@ Click a thumbnail to watch on YouTube.
 | <a href="https://youtu.be/SZKJ5-kdaig"><img src="thumbnails/Video_Provable_Porting_Engine_thumb.jpg" width="320" alt="Blair Nilsson's provable porting engine"></a> | **[Blair Nilsson's Provable Porting Engine](https://youtu.be/SZKJ5-kdaig)**<br>Agentics NZ &mdash; migrating legacy SAS &amp; spreadsheets at scale. |
 
 ## 🖼️ Infographics &amp; Mind Maps
+## 🖼️ Infographics
 
 Click a thumbnail to open the full-resolution image.
 
